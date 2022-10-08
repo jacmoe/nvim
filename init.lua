@@ -1,4 +1,5 @@
-local set = vim.opt
-
-set.scrolloff = 8
+require('settings')
+require('package-manager')
+require('themes')
+require('orgsetup')
 
