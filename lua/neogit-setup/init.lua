@@ -1,4 +1,4 @@
 local neogit = require('neogit')
 
-neogit.setup {}
+neogit.setup { use_magit_keybindings = true }
 
