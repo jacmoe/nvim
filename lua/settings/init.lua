@@ -1,6 +1,7 @@
 local set = vim.opt
 
 vim.g.mapleader = ","
+vim.opt.timeoutlen = 2000
 
 set.scrolloff = 8
 set.wrap = true
