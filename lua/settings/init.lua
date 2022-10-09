@@ -1,5 +1,7 @@
 local set = vim.opt
 
+vim.g.mapleader = ","
+
 set.scrolloff = 8
 set.wrap = true
 set.linebreak = true
