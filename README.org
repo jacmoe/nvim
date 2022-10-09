@@ -16,7 +16,9 @@ This configuration makes use of:
 
 ** Installation
 
+#+begin_quote
 *This configuration does not work in Windows!*
+#+end_quote
 
 *** Clone repository
 #+begin_src
