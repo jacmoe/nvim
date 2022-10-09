@@ -17,7 +17,7 @@ This configuration makes use of:
 ** Installation
 
 #+begin_quote
-*This configuration does not work in Windows!*
+*This configuration does not work in Windows due to how the treesitter parser is configured.*
 #+end_quote
 
 *** Clone repository
