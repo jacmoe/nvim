@@ -15,6 +15,9 @@ This configuration makes use of:
 - [[https://github.com/ethanholz/nvim-lastplace][nvim-lastplace]] - A Lua rewrite of vim-lastplace
 
 ** Installation
+
+*This configuration does not work in Windows!*
+
 *** Clone repository
 #+begin_src
 git clone git@github.com:jacmoe/nvim.git ~/.config/nvim
