@@ -8,8 +8,8 @@ This configuration makes use of:
 - [[https://github.com/EdenEast/nightfox.nvim][Nightfox]] - highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
 - [[https://github.com/TimUntersberger/neogit][Neogit]] - work-in-progress Magit clone for Neovim that is geared toward the Vim philosophy.
 - [[https://github.com/nvim-orgmode/orgmode][Orgmode.nvim]] - Orgmode clone written in Lua for Neovim 0.7.
-- [https://github.com/junegunn/goyo.vim][goyo.vim]] - Distraction-free writing in Vim.
-- [https://github.com/ethanholz/nvim-lastplace][nvim-lastplace]] - A Lua rewrite of vim-lastplace
+- [[https://github.com/junegunn/goyo.vim][goyo.vim]] - Distraction-free writing in Vim.
+- [[https://github.com/ethanholz/nvim-lastplace][nvim-lastplace]] - A Lua rewrite of vim-lastplace
 
 ** Installation
 *** Clone repository
