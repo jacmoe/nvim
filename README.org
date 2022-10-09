@@ -1,4 +1,7 @@
 * My Neovim configuration
+
+[[file:screenshot.png]]
+
 ** Introduction
 This is a small, and quickly put together, Neovim configuration to allow me to edit my Org-mode files on my weak and old Celeron-based laptop. It is a poor, but powerful, imitation of my [[https://github.com/jacmoe/.doom.d][Doom-Emacs]] setup.
 
