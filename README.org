@@ -13,6 +13,7 @@ This configuration makes use of:
 - [[https://github.com/nvim-orgmode/orgmode][Orgmode.nvim]] - Orgmode clone written in Lua for Neovim 0.7.
 - [[https://github.com/junegunn/goyo.vim][goyo.vim]] - Distraction-free writing in Vim.
 - [[https://github.com/ethanholz/nvim-lastplace][nvim-lastplace]] - A Lua rewrite of vim-lastplace
+- [[https://github.com/rmagatti/auto-session][Auto Session]] - Seemless automatic session management.
 
 ** Installation
 
