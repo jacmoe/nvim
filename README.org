@@ -14,7 +14,9 @@ This configuration makes use of:
 - [[https://github.com/junegunn/goyo.vim][goyo.vim]] - Distraction-free writing in Vim.
 - [[https://github.com/ethanholz/nvim-lastplace][nvim-lastplace]] - A Lua rewrite of vim-lastplace
 - [[https://github.com/rmagatti/auto-session][Auto Session]] - Seemless automatic session management.
-
+- [[https://github.com/feline-nvim/feline.nvim][feline.nvim]] - A minimal, stylish and customizable statusline / winbar for Neovim written in Lua.
+- [[https://github.com/glepnir/galaxyline.nvim][Galaxyline]] - A light-weight and Super Fast statusline plugin.
+- [[https://github.com/chentoast/marks.nvim][marks.nvim]] - A better user experience for interacting with and manipulating Vim marks.
 ** Installation
 
 #+begin_quote
