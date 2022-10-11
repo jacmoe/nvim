@@ -4,3 +4,43 @@
 
 =:ls= list buffers
 
+=:buffer n= open buffer number n
+
+="*p= paste from system clipboard
+
+=:reg= show the content of all registers
+
+=yy= yank current line into register
+
+=ym= yank the text of movement command m
+
+=mc= mark current position with mark c [a-Z]
+
+=m,= set the next available lowercase mark
+
+=dmx= delete mark x
+
+=dm-= delete all marks on line
+
+=dm<space>= delete all marks in current buffer
+
+=m]= move to the next mark
+
+=m[]= move to the previous mark
+
+=m:= preview mark
+
+=m[0-9]= Add a bookmark from bookmark group [0-9]
+
+=dm[0-9]= Delete all bookmarks from bookmark group [0-9]
+
+=m}= move to next bookmark of same type as current line
+
+=m{= move to the previous bookmark of same type as current line
+
+=`c `C= go to mark c in current, C in any file
+
+=:marks= print the active marks list
+
+=:jumps= print the jump list
+
