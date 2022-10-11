@@ -6,8 +6,16 @@ return require'packer'.startup(function()
 	        require('orgmode').setup{}
 	end}
 	use { 'TimUntersberger/neogit', requires = 'nvim-lua/plenary.nvim' }
-	use 'junegunn/goyo.vim'
 	use 'ethanholz/nvim-lastplace'
+	use({
+		"loqusion/true-zen.nvim",
+		config = function()
+			 require("true-zen").setup {
+				-- your config goes here
+				-- or just leave it empty :)
+			 }
+		end,
+	})
 	use 'chentoast/marks.nvim'
 	use({
 	  	'glepnir/galaxyline.nvim',
