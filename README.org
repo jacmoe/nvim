@@ -14,8 +14,7 @@ This configuration makes use of:
 - [[https://github.com/loqusion/true-zen.nvim][true-zen.nvim]] - Clean and elegant distraction-free writing for NeoVim. 
 - [[https://github.com/ethanholz/nvim-lastplace][nvim-lastplace]] - A Lua rewrite of vim-lastplace
 - [[https://github.com/rmagatti/auto-session][Auto Session]] - Seemless automatic session management.
-- [[https://github.com/feline-nvim/feline.nvim][feline.nvim]] - A minimal, stylish and customizable statusline / winbar for Neovim written in Lua.
-- [[https://github.com/glepnir/galaxyline.nvim][Galaxyline]] - A light-weight and Super Fast statusline plugin.
+- [[https://github.com/nvim-lualine/lualine.nvim][lualine.nvim]] - A blazing fast and easy to configure Neovim statusline written in Lua. 
 - [[https://github.com/chentoast/marks.nvim][marks.nvim]] - A better user experience for interacting with and manipulating Vim marks.
 ** Installation
 

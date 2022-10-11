@@ -17,16 +17,10 @@ return require'packer'.startup(function()
 		end,
 	})
 	use 'chentoast/marks.nvim'
-	use({
-	  	'glepnir/galaxyline.nvim',
-		  branch = 'main',
-		  -- your statusline
-		  config = function()
-		    require('galaxyline-settings')
-		  end,
-		  -- some optional icons
-		  requires = { 'kyazdani42/nvim-web-devicons', opt = true },
-	})
+	use {
+	  'nvim-lualine/lualine.nvim',
+	  requires = { 'kyazdani42/nvim-web-devicons', opt = true }
+	}	
 	use { 'rmagatti/auto-session',
 		config = function()
 			require("auto-session").setup {
