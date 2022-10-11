@@ -2,4 +2,5 @@
 
 =:Telescope buffers= fuzzy find a buffer
 
+=:ls= list buffers
 
