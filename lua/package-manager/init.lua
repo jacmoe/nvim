@@ -7,6 +7,12 @@ return require'packer'.startup(function()
 	end}
 	use { 'TimUntersberger/neogit', requires = 'nvim-lua/plenary.nvim' }
 	use 'ethanholz/nvim-lastplace'
+	use {'akinsho/bufferline.nvim', tag = "v2.*", requires = 'kyazdani42/nvim-web-devicons'}
+	use {
+	  'nvim-telescope/telescope.nvim', tag = '0.1.0',
+	-- or                            , branch = '0.1.x',
+	  requires = { {'nvim-lua/plenary.nvim'} }
+	}
 	use({
 		"loqusion/true-zen.nvim",
 		config = function()

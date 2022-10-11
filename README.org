@@ -16,6 +16,8 @@ This configuration makes use of:
 - [[https://github.com/rmagatti/auto-session][Auto Session]] - Seemless automatic session management.
 - [[https://github.com/nvim-lualine/lualine.nvim][lualine.nvim]] - A blazing fast and easy to configure Neovim statusline written in Lua. 
 - [[https://github.com/chentoast/marks.nvim][marks.nvim]] - A better user experience for interacting with and manipulating Vim marks.
+- [[https://github.com/akinsho/bufferline.nvim][bufferline.nvim]] - A snazzy buffer line (with tabpage integration) for Neovim built using lua.
+- [[https://github.com/nvim-telescope/telescope.nvim][telescope.nvim]] - A highly extendable fuzzy finder over lists. 
 ** Installation
 
 #+begin_quote
