@@ -1,0 +1,5 @@
+=:bd= delete buffer
+
+=:Telescope buffers= fuzzy find a buffer
+
+
