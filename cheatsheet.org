@@ -44,3 +44,5 @@
 
 =:jumps= print the jump list
 
+=<Leader>z= toggle Ataraxis mode
+
