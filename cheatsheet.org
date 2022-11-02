@@ -48,3 +48,12 @@
 
 =g C-g= count words
 
+=<Leader>oxi= starts org clock
+
+=<Leader>oxo= stops org clock
+
+=<Leader>oxq= quits org clock
+
+=<Leader>oxj= jumps to org logbook
+
+
