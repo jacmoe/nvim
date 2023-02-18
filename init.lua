@@ -1,4 +1,5 @@
 require('settings')
+require('keymaps')
 require('package-manager')
 require('themes')
 require('orgsetup')
