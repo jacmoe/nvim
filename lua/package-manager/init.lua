@@ -7,6 +7,7 @@ return require'packer'.startup(function()
 	end}
 	use { 'TimUntersberger/neogit', requires = 'nvim-lua/plenary.nvim' }
 	use 'ethanholz/nvim-lastplace'
+	use 'khaveesh/vim-fish-syntax'
 	use {'akinsho/bufferline.nvim', tag = "v2.*", requires = 'kyazdani42/nvim-web-devicons'}
 	use {
 	  'nvim-telescope/telescope.nvim', tag = '0.1.0',
